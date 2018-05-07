@@ -18,3 +18,5 @@ Ils cherchent une solution pour pouvoir vivre leur amour.
 il trouvèrent la solution, **Fraise se mettra au dessus**
 
 Il se déplaceront donc ensemble, fraise roulant sur le dos de melon ...
+
+Vivant d'amour en ayant pleins de petits smoothies
