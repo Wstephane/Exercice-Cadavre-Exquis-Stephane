@@ -7,3 +7,6 @@ _C'est une petite fraise qui a voulu voir le reste du jardin._
 __Il commence à explorer et tomber sur un énorme melon.__
 
 Que va-il se passer ????
+
+PAF le coup de foudre! Ils rougissent ensemble
+
