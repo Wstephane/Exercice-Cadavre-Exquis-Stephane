@@ -13,3 +13,8 @@ PAF le coup de foudre! Ils rougissent ensemble
 Malheureusement ils ne peuvent pas se faire de calins car la fraise est trop fragile et melon risque de l'écraser.
 Ils cherchent une solution pour pouvoir vivre leur amour.
 
+# Animé par leur passion
+
+il trouvèrent la solution, **Fraise se mettra au dessus**
+
+Il se déplaceront donc ensemble, fraise roulant sur le dos de melon ...
