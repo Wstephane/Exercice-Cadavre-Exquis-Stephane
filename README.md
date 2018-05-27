@@ -1,5 +1,12 @@
 # Exercice-Cadavre-Exquis-Stephane
-Exercice du Cadavre Exquis avec Morgane, Julie, Guillaume et Sourech
+
+Exercice du Cadavre Exquis fait par Stéphane Wyns avec Morgane Meganck, Julie Connerotte, Guillaume Bare et Sourech Bauts.
+
+Excercice fait dans l'optique d'apprendre à utiliser les commandes Git et Github pour le travail de groupe.
+
+Fait le 07/05/18 et terminer le 08/05/18 dans les premières jours de la formation BeCode.
+
+
 ## C'est l'histoire d'une Fraise
 
 _C'est une petite fraise qui a voulu voir le reste du jardin._
